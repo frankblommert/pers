@@ -4,5 +4,5 @@
  * and open the template in the editor.
  * test nieuwe branche git
  *    */
-echo 'Hi';
+echo 'Changed to new branche';
 ?>
