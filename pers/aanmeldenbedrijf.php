@@ -1,5 +1,5 @@
 <?php
-
+/* test github */
 require_once 'FuncClasses/clsBedrijf.php';
 require_once 'FuncClasses/clsAccount.php';
 require_once 'src/includes/controlesbedrijf.php';
